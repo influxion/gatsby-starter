@@ -1,8 +1,8 @@
 {
-  "name": "acro-air",
+  "name": "gatsby-client-side",
   "version": "1.0.0",
   "private": true,
-  "description": "acro-air",
+  "description": "gatsby-client-side",
   "author": "INFLUXED",
   "keywords": [
     "gatsby"
