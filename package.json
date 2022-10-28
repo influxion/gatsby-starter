@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "acro-air",
-  "author": "influxion",
+  "author": "INFLUXED",
   "keywords": [
     "gatsby"
   ],
@@ -16,15 +16,20 @@
   },
   "dependencies": {
     "@mdx-js/react": "^2.1.5",
+    "autoprefixer": "^10.4.13",
     "gatsby": "^4.24.5",
+    "gatsby-omni-font-loader": "^2.0.2",
     "gatsby-plugin-image": "^2.24.0",
     "gatsby-plugin-manifest": "^4.24.0",
     "gatsby-plugin-mdx": "^4.3.0",
+    "gatsby-plugin-postcss": "^5.24.0",
     "gatsby-plugin-sharp": "^4.24.0",
     "gatsby-plugin-sitemap": "^5.24.0",
     "gatsby-source-filesystem": "^4.24.0",
     "gatsby-transformer-sharp": "^4.24.0",
+    "postcss": "^8.4.18",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "tailwindcss": "^3.2.1"
   }
 }
