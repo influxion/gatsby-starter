@@ -5,7 +5,7 @@ import Seo from '../components/global/seo';
 const IndexPage = () => {
   return (
     <Layout>
-      <h1 className='text-3xl font-bold underline'>Hello world!</h1>
+      <h1 className='font-bold underline text-3xl'>Hello world!</h1>
     </Layout>
   );
 };
